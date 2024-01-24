@@ -4,4 +4,4 @@ Can be controlled by using WASD.
 Press E at the start menu to Start.
 Press Q at the start menu to Quit.
 
-![Start Menu]("https://github.com/viniciusbrit/sort-of-useful-code/snaek/images/start,gif")
+![Start Menu]("https://raw.githubusercontent.com/viniciusbrit/snaek/main/images/start.gif")
